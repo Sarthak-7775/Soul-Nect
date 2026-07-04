@@ -5,9 +5,9 @@ Tam Members ->
 Harsh Soni,
 Samarth Rouhela,
 Sanya Goyal,
-Sarthak Kandpal,
 Anubhav Chauhan,
-Dharam Pratap Singh
+Dharam Pratap Singh,
+Sarthak Kandpal
 
 
 
